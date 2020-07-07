@@ -244,7 +244,7 @@ function get20s(artistData){
   for (let i = 0; i == 1800-1900; i++)
   return(get20s());
 }
-  console.log(get20s());
+  console.log(get20s(artists));
 
 
 
@@ -302,7 +302,7 @@ function lotsOfArt(array){
   }
   return newArray;
 }
-
+console.log(artists);
 
 // 🎨🎨 STRETCH 🎨🎨//
 
